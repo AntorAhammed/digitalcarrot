@@ -17,7 +17,7 @@ const Navbar = () => {
           </div>
           <div className="connect_metamsk">
             <button className="eth_mainnet_btn">SOL Mainnet</button>
-            <div className="light"><MdLightbulbOutline/></div>
+            {/* <div className="light"><MdLightbulbOutline/></div> */}
             <button className="connect_metamsk_btn">Connect Phantom</button>
           </div>
       </div>
